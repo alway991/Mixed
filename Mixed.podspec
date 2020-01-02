@@ -9,7 +9,7 @@ s.author           = {"作者" => "123456789@qq.com" }
 s.source           = {:git => "https://github.com/alway991/Mixed.git", :commit => "653e2924d49d8ba313faac271d4dd37ef81b685c" }
 s.platform              = :ios, '9.0'
 s.ios.deployment_target = '9.0'
-s.source_files = 'Mixed/Classes/*.{h,m,swift}'
+s.source_files = 'alway991/Mixed/Classes/*.{h,m,swift}'
 
 s.requires_arc = true
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '2.3' }
