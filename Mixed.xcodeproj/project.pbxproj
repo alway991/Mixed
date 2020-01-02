@@ -85,6 +85,7 @@
 		2939413823BD905200AA790D = {
 			isa = PBXGroup;
 			children = (
+				2939417823BD916600AA790D /* Mixed.podspec */,
 				2939414323BD905200AA790D /* Mixed */,
 				2939415823BD905700AA790D /* MixedTests */,
 				2939416323BD905700AA790D /* MixedUITests */,
@@ -105,7 +106,6 @@
 		2939414323BD905200AA790D /* Mixed */ = {
 			isa = PBXGroup;
 			children = (
-				2939417823BD916600AA790D /* Mixed.podspec */,
 				2939417A23BD922400AA790D /* Classes */,
 				2939414423BD905200AA790D /* AppDelegate.swift */,
 				2939414623BD905200AA790D /* ViewController.swift */,
