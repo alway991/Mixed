@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.license          = {:type => 'MIT', :file => 'LICENSE'}
     s.homepage         = 'http://XXXDomain/XXX.privateGit/Mixed.html'
     s.author           = {"作者" => "123456789@qq.com" }
-    s.source           = {:git => "http://http://XXXDomain/XXX.privateGit/Mixed.git", :commit => "bb1e3eb2d55468252f68fb4c1881ecc68517757a" }
+    s.source           = {:git => "https://github.com/alway991/Mixed.git", :commit => "a88bdfdaed408f4a471531f8cba464f0081a9b7e" }
     s.platform              = :ios, '9.0'
     s.ios.deployment_target = '9.0'
     s.public_header_files = 'Mixed/Classes/*.h'
