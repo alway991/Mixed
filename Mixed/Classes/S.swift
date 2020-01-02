@@ -8,7 +8,7 @@
 
 import Foundation
 
-class S: NSObject {
+@objc public class S: NSObject {
     
     @objc public func show() {
         print("S show")
