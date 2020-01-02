@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/alway991/Mixed.git", :commit => "1e7eed0a767ee8db99089e44ae8770fabaa8efaf" }
+  spec.source       = { :git => "https://github.com/alway991/Mixed.git", :commit => "7f44829b20cb28612c763b41e36759181e6f84c2" }
 
 
 
